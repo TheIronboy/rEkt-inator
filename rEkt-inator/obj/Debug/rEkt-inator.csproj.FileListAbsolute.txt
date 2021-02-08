@@ -1,0 +1,30 @@
+C:\Users\giord\source\repos\rEkt-inator\rEkt-inator\bin\Debug\rEkt-inator.exe.config
+C:\Users\giord\source\repos\rEkt-inator\rEkt-inator\bin\Debug\rEkt-inator.exe
+C:\Users\giord\source\repos\rEkt-inator\rEkt-inator\bin\Debug\rEkt-inator.pdb
+C:\Users\giord\source\repos\rEkt-inator\rEkt-inator\obj\Debug\rEkt-inator.csprojAssemblyReference.cache
+C:\Users\giord\source\repos\rEkt-inator\rEkt-inator\obj\Debug\rEkt_inator.Form1.resources
+C:\Users\giord\source\repos\rEkt-inator\rEkt-inator\obj\Debug\rEkt_inator.Properties.Resources.resources
+C:\Users\giord\source\repos\rEkt-inator\rEkt-inator\obj\Debug\rEkt-inator.csproj.GenerateResource.cache
+C:\Users\giord\source\repos\rEkt-inator\rEkt-inator\obj\Debug\rEkt-inator.csproj.CoreCompileInputs.cache
+C:\Users\giord\source\repos\rEkt-inator\rEkt-inator\obj\Debug\rEkt-inator.exe
+C:\Users\giord\source\repos\rEkt-inator\rEkt-inator\obj\Debug\rEkt-inator.pdb
+D:\Google Drive\Visual Studio Projects\C#\rEkt-inator\rEkt-inator\bin\Debug\rEkt-inator.exe.config
+D:\Google Drive\Visual Studio Projects\C#\rEkt-inator\rEkt-inator\bin\Debug\rEkt-inator.exe
+D:\Google Drive\Visual Studio Projects\C#\rEkt-inator\rEkt-inator\bin\Debug\rEkt-inator.pdb
+D:\Google Drive\Visual Studio Projects\C#\rEkt-inator\rEkt-inator\obj\Debug\rEkt-inator.csprojAssemblyReference.cache
+D:\Google Drive\Visual Studio Projects\C#\rEkt-inator\rEkt-inator\obj\Debug\rEkt_inator.Form1.resources
+D:\Google Drive\Visual Studio Projects\C#\rEkt-inator\rEkt-inator\obj\Debug\rEkt_inator.Properties.Resources.resources
+D:\Google Drive\Visual Studio Projects\C#\rEkt-inator\rEkt-inator\obj\Debug\rEkt-inator.csproj.GenerateResource.cache
+D:\Google Drive\Visual Studio Projects\C#\rEkt-inator\rEkt-inator\obj\Debug\rEkt-inator.csproj.CoreCompileInputs.cache
+D:\Google Drive\Visual Studio Projects\C#\rEkt-inator\rEkt-inator\obj\Debug\rEkt-inator.exe
+D:\Google Drive\Visual Studio Projects\C#\rEkt-inator\rEkt-inator\obj\Debug\rEkt-inator.pdb
+D:\TheIronboy\Google Drive\Visual Studio Projects\C#\rEkt-inator\rEkt-inator\bin\Debug\rEkt-inator.exe.config
+D:\TheIronboy\Google Drive\Visual Studio Projects\C#\rEkt-inator\rEkt-inator\bin\Debug\rEkt-inator.exe
+D:\TheIronboy\Google Drive\Visual Studio Projects\C#\rEkt-inator\rEkt-inator\bin\Debug\rEkt-inator.pdb
+D:\TheIronboy\Google Drive\Visual Studio Projects\C#\rEkt-inator\rEkt-inator\obj\Debug\rEkt-inator.csprojAssemblyReference.cache
+D:\TheIronboy\Google Drive\Visual Studio Projects\C#\rEkt-inator\rEkt-inator\obj\Debug\rEkt_inator.Form1.resources
+D:\TheIronboy\Google Drive\Visual Studio Projects\C#\rEkt-inator\rEkt-inator\obj\Debug\rEkt_inator.Properties.Resources.resources
+D:\TheIronboy\Google Drive\Visual Studio Projects\C#\rEkt-inator\rEkt-inator\obj\Debug\rEkt-inator.csproj.GenerateResource.cache
+D:\TheIronboy\Google Drive\Visual Studio Projects\C#\rEkt-inator\rEkt-inator\obj\Debug\rEkt-inator.csproj.CoreCompileInputs.cache
+D:\TheIronboy\Google Drive\Visual Studio Projects\C#\rEkt-inator\rEkt-inator\obj\Debug\rEkt-inator.exe
+D:\TheIronboy\Google Drive\Visual Studio Projects\C#\rEkt-inator\rEkt-inator\obj\Debug\rEkt-inator.pdb
